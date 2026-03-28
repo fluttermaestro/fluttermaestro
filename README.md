@@ -1,41 +1,29 @@
 # Professional Profile
 
-## Summary
-
-Experienced Flutter Developer with a strong background in building high-performance mobile applications. Proficient in Dart programming, state management, and UI/UX design principles. Demonstrated ability to work effectively in agile environments, collaborating with cross-functional teams to deliver quality software.
-
 ## Skills
-- Flutter & Dart
-- RESTful APIs
-- Firebase
-- Git & Version Control
-- Agile Methodologies
+- Flutter Development
+- Dart Programming
+- Mobile App Development
+- Backend Development with Node.js
+- RESTful API Integration
 - UI/UX Design Principles
+- Version Control with Git
 
-## Experience
+## Projects
+1. **Flutter App for XYZ**: A mobile app that allows users to track their fitness goals and progress.
+   - Technologies Used: Flutter, Firebase, REST API
 
-### Senior Flutter Developer
-**XYZ Tech Solutions**  
-March 2021 - Present  
-- Led the development of several key mobile applications using Flutter, enhancing user engagement and increasing customer satisfaction.
-- Implemented CI/CD pipelines to streamline application deployment and reduce release cycles.
+2. **Dart CLI Tool**: A command-line tool to automate repetitive tasks using Dart.
+   - Technologies Used: Dart
 
-### Flutter Developer
-**ABC Mobile Apps**  
-June 2018 - February 2021  
-- Developed cross-platform mobile applications, optimizing performance through code reviews and best practices.
-- Collaborated with designers to create user-friendly interfaces and maintain brand consistency.
+3. **Web Application for ABC**: A full-stack web application to manage tasks and projects.
+   - Technologies Used: Flutter Web, Node.js, MongoDB
 
-## Education
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fluttermaestro&show_icons=true)
 
-**Bachelor of Science in Computer Science**  
-University of Technology  
-Graduated: 2018
+## Contact Information
+- **Email**: fluttermaestro@example.com
+- **LinkedIn**: [linkedin.com/in/fluttermaestro](https://linkedin.com/in/fluttermaestro)
 
-## Certifications
-- Flutter & Dart - The Complete Guide (Udemy)  
-- Google Associate Android Developer  
-
-## Contact
-- Email: fluttermaestro@example.com
-- LinkedIn: [linkedin.com/in/fluttermaestro](https://linkedin.com/in/fluttermaestro)
+---
